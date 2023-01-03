@@ -1,2 +1,3 @@
 djackets_ec_django/settings.py
 .vscode/settings.json
+/db.sqlite3
